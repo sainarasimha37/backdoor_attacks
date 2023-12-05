@@ -32,5 +32,7 @@ Combined 10% Drops Model:
 
 Classification Accuracy: 84.54%
 Attack Success Rate: 77.21%
+
+
 These findings demonstrate the impact of pruning in enhancing the performance of the repaired networks, as reflected in both classification accuracy on clean test data and resilience against adversarial attacks.
 
